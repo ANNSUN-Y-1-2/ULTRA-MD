@@ -23,9 +23,9 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "iIJQ3BAK#-sJ4YLGoQzMDS4nsTUoD79uKkREhGDZpFmQQr8zkR1I",
       "required": true,
-      "value": ""
+      "value": "iIJQ3BAK#-sJ4YLGoQzMDS4nsTUoD79uKkREhGDZpFmQQr8zkR1I"
     },
     "MODE": {
       "description": "mode public or private",
